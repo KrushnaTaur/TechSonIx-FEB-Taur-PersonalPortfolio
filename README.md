@@ -24,8 +24,7 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 
 You can view the live version of my portfolio website at:
 
-[https://KrushnaTaur.github.io/portfolio-website/]
-
+(https://krushnataur.github.io/TechSonIx-FEB-Taur-PersonalPortfolio/)
 ## Getting Started
 
 To run this project locally, follow these steps:
